@@ -1,4 +1,4 @@
-# Data scraper solution using Scrapy Framework
+# Data scraper using Scrapy Framework
 
 ## Installation
 
