@@ -1,0 +1,12 @@
+bs4==0.0.1
+requests==2.25.1
+scrapy==2.4.1
+## Avoid scraping same page twice
+scrapy_crawl_once==0.1.1
+## Generate diferent identity of browser
+scrapy_user_agents==0.1.1
+## Proxy rotating from given list
+scrapy_rotating_proxies==0.6.2
+## Pandas
+pandas==1.1.5
+
