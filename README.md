@@ -7,6 +7,9 @@ Different scraping technolgies used to build various data extractions tools
 - `pip install requests`
 #### Soultions
 - **Holiday calender** based on country name [Link](/beautifulsoup/Hoilday_srap.ipynb)
+- **Price compare** [Link](/beautifulsoup/Price_Compare_in_different_Year.ipynb)
+    - Such as what is the current value of $15 in 2020 which spend in 1975
+    - In 1975 $15 equal to $202.68 in 2020 
 
 ## Scrapy
 #### Library Install
