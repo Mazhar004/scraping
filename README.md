@@ -9,6 +9,7 @@ Different scraping technolgies used to build various data extractions tools
 - **Holiday calender** based on country name [Link](/beautifulsoup/Hoilday_srap.ipynb)
 
 ## Scrapy
+- All installation process [Link](/scrapy/README.md)
 ### Solutions
 - **Amazon** best sellers books data collections
 - Basics of scrapy on **toscrape** website
