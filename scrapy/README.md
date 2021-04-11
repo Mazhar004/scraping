@@ -21,10 +21,10 @@
 ## Projects
 
 - **Amazon**
-  - Amazon best sellers books data collections [Link](/amazon)
+  - Amazon best sellers books data collections [Link](amazon)
   - `cd amazon`
   - `scrapy crawl amazon_books -o books.json`
 - **ToScrape**
-  - Basics of scrapy on **toscrape** website [Link](/quotetutorial)
+  - Basics of scrapy on **toscrape** website [Link](quotetutorial)
   - `cd quotetutorial`
   - `scrapy crawl quotes -o quotes.json`
