@@ -19,10 +19,15 @@ Different scraping technolgies used to build various data extractions tools
 - Basics of scrapy on **toscrape** website [Link](scrapy/quotetutorial)
 
 ## Selenium
-#### Library Install
-- `sudo apt-get install firefox-geckodriver`
+#### Library Install (Linux)
+- For FireFox `sudo apt-get install firefox-geckodriver`
+- For Chrome `sudo apt-get install chromium-chromedriver`
 - `pip install bs4`
 - `pip install requests`
+- Download any one driver you want to proceed with for Windows from follwing link
+    - [FireFox WebDriver](https://github.com/mozilla/geckodriver/releases)
+    - [Chrome WebDriver](https://chromedriver.chromium.org/downloads)
+    - Put it in **drive** folder
 #### Soultions
 - Bigboss voting app [Account sign up] [Link](/selenium/bigboss_voting_app.ipynb)
 - Food branch details based on country name [Link](selenium/food_branch.ipynb)
