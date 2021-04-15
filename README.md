@@ -28,7 +28,7 @@ Different scraping technolgies used to build various data extractions tools
 - Food branch details based on country name [Link](selenium/Food_branch.ipynb)
 - House rent/sale details [Link](selenium/HAR_house.ipynb)
 - A website member details extractions [Link](selenium/KPAA_member_search.ipynb)
-- Linkedin account email extraction [Login] [Link](selenium/LinkedIn_Email_Extractor.ipynb)
+- Linkedin account email extraction [Login & Contacts] [Link](selenium/LinkedIn_Email_Extractor.ipynb)
 
 
 
